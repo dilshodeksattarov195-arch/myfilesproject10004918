@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "searchcync",
+        "uuid": 7854046,
+        "checksum": "j9qua"
+    },
+    "settings": {
+        "retries": 3,
+        "enabled": true,
+        "mode": "staging"
+    }
+}
